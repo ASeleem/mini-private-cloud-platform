@@ -1,0 +1,9 @@
+zope.interface
+python-openstackclient
+python-keystoneclient
+python-novaclient
+python-neutronclient
+python-cinderclient
+testtools
+fixtures
+coverage
